@@ -15,5 +15,6 @@ Entre las cosas más importantes de Git y GitHub que todo desarrollador profesio
 - Trabajo colaborativo
 - Administrar proyectos
 - Funciones de los miembros del equipo de trabajo
+- Como solucionar casos de emergencia
 
 Psd: **Este Readme.md es de prueba, por favor no confies en todo lo que dice, recuerda "No asumas nada, cuestiona todo."**
